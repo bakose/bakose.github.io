@@ -35,7 +35,7 @@ docs:
       - title: "ZeroMQ"
         url: /
       - title: "Docker"
-        url: /
+        url: /categories/docker
   - title: "Mac/Linux"
     children:
       - title: "Mac"
