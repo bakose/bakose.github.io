@@ -1,25 +1,26 @@
 ---
-title:  "Android 개발환경 세팅"
+title:  "Android Studio Keymap"
 excerpt: "Android settings"
 toc: true
 toc_sticky: true
 
 categories:
-  - Android
+  - android
 tags:
-  - Android
+  - android
+  - command
 last_modified_at: 2019-11-02T21:03:00-09:00
 ---
 
-## Android 개발환경 설정
+## Android Studio 단축키 
 
-안드로이드 스튜디오 설치파일 다운로드합니다.
-링크 : https://developer.android.com/studio
-
-Android Studio 프로젝트를 실행하고 새로운 프로젝트를 생성합니다.
-1. Start a new Android Studio project 선택
-
-어플리케이션을 실행할 디바이스를 등록합니다.
-
-
-
+| 단축키 | 동작 |
+|:----|:----|
+| Command + Delete | Delete Line |
+| Command + Shift + [ or ] | Move prev or next tab |
+| Command + D | Copy line |
+| Control + Alt + O | Optimize Imports |
+| Alt + Enter | Context Action |
+| Control + Enter | Generate Code |
+| Control + R | Run Application |
+| Control + O | Override Methods |

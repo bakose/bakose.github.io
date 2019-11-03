@@ -262,6 +262,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: docs
   # _pages
   - scope:
       path: ""
@@ -273,3 +275,5 @@ defaults:
       comments: false
       share: true
       related: false
+      sidebar:
+        nav: docs

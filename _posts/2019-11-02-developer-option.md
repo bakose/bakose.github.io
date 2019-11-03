@@ -1,25 +1,23 @@
 ---
-title:  "Android 개발환경 세팅"
+title:  "갤럭시 S10 개발자 옵션 활성화"
 excerpt: "Android settings"
 toc: true
 toc_sticky: true
 
 categories:
-  - Android
+  - android
 tags:
-  - Android
+  - android
+  - galaxy
 last_modified_at: 2019-11-02T21:03:00-09:00
 ---
 
-## Android 개발환경 설정
+갤럭시 S10에서의 개발자 옵션 활성화 하는 방법입니다.
 
-안드로이드 스튜디오 설치파일 다운로드합니다.
-링크 : https://developer.android.com/studio
+1. 설정 > 휴대전화 정보 선택
 
-Android Studio 프로젝트를 실행하고 새로운 프로젝트를 생성합니다.
-1. Start a new Android Studio project 선택
+2. 소프트웨어 정보 
 
-어플리케이션을 실행할 디바이스를 등록합니다.
+3. 빌드번호 항목을 5번 이상 연속으로 탭
 
-
-
+4. 설정 화면의 최하단에 개발자 옵션 메뉴 활성화 됨

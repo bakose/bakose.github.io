@@ -1,9 +1,9 @@
 ---
-title: "Mac"
-permalink: /categories/mac
+title: "Android"
+permalink: /categories/android
 layout: category
 author_profile: true
-taxonomy: MAC
+taxonomy: android
 ---
 
-Mac 관련 포스팅
+Android 관련 포스팅

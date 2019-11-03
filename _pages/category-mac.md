@@ -3,7 +3,7 @@ title: "Mac"
 permalink: /categories/mac
 layout: category
 author_profile: true
-taxonomy: maccc
+taxonomy: mac
 ---
 
-Mac 관련 포스
+Mac 관련 포스팅
