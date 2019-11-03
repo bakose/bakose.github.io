@@ -22,5 +22,6 @@ last_modified_at: 2019-11-02T21:03:00-09:00
 | Control + Alt + O | Optimize Imports |
 | Alt + Enter | Context Action |
 | Control + Enter | Generate Code |
+| Command + P | Parameter Info |
 | Control + R | Run Application |
 | Control + O | Override Methods |
