@@ -23,7 +23,7 @@ docs:
       - title: "Python"
         url: /
       - title: "Golang"
-        url: /
+        url: /categories/golang
       - title: "Android"
         url: /categories/android
       - title: "Rasp"
