@@ -9,8 +9,6 @@ tags:
 last_modified_at: 2019-11-02T13:23:00-09:00
 ---
 
-## Mac 초보의 Mac Pro 적응기
-
 ### Mac 단축키
 
 #### 기본
@@ -23,6 +21,12 @@ last_modified_at: 2019-11-02T13:23:00-09:00
 | Command + r | 새로고침 |
 | Command + ~ | 앱 내 창전환 |
 | Control + Command + Space | 특수문자 |
+| Control + Tab | 우측탭 이동 |
+| Control + Shift + Tab | 좌측탭 이동 |
+| fn + f11 | 데스크탑 보기 |
+| Control + ↑ | Mission Control |
+| Control + → | 우측 Space 이동 |
+| Control + ← | 좌측 Space 이동 |
 
 #### Finder
   
