@@ -28,6 +28,8 @@ last_modified_at: 2019-11-02T13:23:00-09:00
 | Control + → | 우측 Space 이동 |
 | Control + ← | 좌측 Space 이동 |
 | Command + R | Refresh |
+| Command + Shift + 3 | 캡처 |
+| Command + Shift + 4 | 영역 캡처 |
 
 #### Finder
   
